@@ -7,5 +7,5 @@ __Controls__
 * S to attack in front
 * X to attack downwards
 
-__How to not lose__
+__How to not lose__  
 Don't get hit.
