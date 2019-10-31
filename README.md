@@ -1,7 +1,7 @@
 # The-Traveling-Knight
-Game Project for CS 106
-Programmer: Harry Tran
-Artist: Sonaal Thaker 
+Game Project for CS 106  
+Programmer: Harry Tran  
+Artist: Sonaal Thaker  
 
 __Controls__
 * A to jump
